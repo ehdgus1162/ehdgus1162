@@ -6,7 +6,7 @@
 
 ## 🌟 기술 스택
 이 프로젝트는 아래 기술들을 사용하여 제작되었습니다. 버튼을 클릭하면 각 기술의 공식 문서를 확인할 수 있습니다:
-
+<br>
 <div align="center">
   <a href="https://docs.oracle.com/en/java/" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
