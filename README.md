@@ -1,11 +1,11 @@
-# 📚 내 멋진 프로젝트 (My Awesome Project)
+# 📚 내 기술 학습 여정 (Learning Journey)
 
-**Java**, **MySQL**, **JavaScript**, **Spring**, **HTML5**, **CSS**, **React**와 같은 다양한 기술을 사용하여 개발된 프로젝트입니다.
+Java, MySQL, JavaScript, Spring, HTML5, CSS, React 등 다양한 기술을 배우는 과정을 정리합니다. 학습 목표와 공식 문서 링크를 통해 효율적으로 학습할 수 있습니다.
 
 ---
 
-## 🌟 기술 스택
-이 프로젝트는 아래 기술들을 사용하여 제작되었습니다. 버튼을 클릭하면 각 기술의 공식 문서를 확인할 수 있습니다:
+## 🌟 학습 기술
+이 학습 과정에서는 아래 기술들을 중점적으로 다룹니다. 각 버튼을 클릭하면 해당 기술의 공식 문서를 열람할 수 있습니다:
 
 <div align="center">
   <a href="https://docs.oracle.com/en/java/" target="_blank">
@@ -39,11 +39,61 @@
 
 ---
 
-# 🌟 설치 방법 (Installation Section)
+## 🛠 학습 목표
+- **Java**: 
+- **MySQL**: 
+- **JavaScript**: 
+- **HTML5**: 
+- **CSS3**: 
+- **Spring**: 
+- **React**: 
 
-**더 자세한 설명을 추가하세요.**
+---
 
-- 저장소를 클론합니다:
-  ```bash
-  git clone [클론 URL]
+## 📖 학습 과정
+
+### 1. Java
+- **학습 목표**: 
+- **진행 상황**: 
+
+### 2. MySQL
+- **학습 목표**: 
+- **진행 상황**: 
+
+### 3. JavaScript
+- **학습 목표**: 
+- **진행 상황**: 
+
+### 4. HTML5 & CSS3
+- **학습 목표**: 
+- **진행 상황**: 
+
+### 5. Spring
+- **학습 목표**: 
+- **진행 상황**: 
+
+### 6. React
+- **학습 목표**: 
+- **진행 상황**: 
+
+---
+
+## 🗂 학습 자료
+- [Java 입문서](https://docs.oracle.com/en/java/)
+- [MySQL 공식 튜토리얼](https://dev.mysql.com/doc/)
+- [JavaScript 학습 자료 (MDN)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
+- [HTML5 & CSS3 기본](https://developer.mozilla.org/ko/docs/Web/HTML)
+- [Spring 가이드](https://spring.io/guides)
+- [React 학습 자료](https://reactjs.org/docs/)
+
+---
+
+## 🎯 학습 계획
+- 매주 새로운 기술을 1~2개씩 집중 학습.
+- 프로젝트를 통해 실습하며 기술 통합.
+- 매달 학습 성과를 기록하고 피드백 반영.
+
+---
+
+이 템플릿은 공란 상태에서 학습 목표와 과정을 기록할 수 있도록 설계되었습니다. 각 학습 단계에서 내용을 채우며 진행 상황을 업데이트해 보세요! 😊
 
