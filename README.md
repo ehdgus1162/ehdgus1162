@@ -42,17 +42,11 @@ Java, MySQL, JavaScript, Spring, HTML5, CSS, React 등 다양한 기술을 배�
 ## 📖 학습 과정
 
 ### 1. Java
-
 ### 2. MySQL
-
 ### 3. JavaScript
-
 ### 4. HTML5 & CSS3
-
 ### 5. Spring
-
 ### 6. React
-
 ---
 
 ## 🗂 학습 자료
