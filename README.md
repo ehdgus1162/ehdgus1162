@@ -1,4 +1,4 @@
-# 📚 내 기술 학습 여정 (Learning Journey)
+# 📚 기술 학습 여정 (Learning Journey)
 
 Java, MySQL, JavaScript, Spring, HTML5, CSS, React 등 다양한 기술을 배우는 과정을 정리합니다. 학습 목표와 공식 문서 링크를 통해 효율적으로 학습할 수 있습니다.
 
@@ -6,8 +6,8 @@ Java, MySQL, JavaScript, Spring, HTML5, CSS, React 등 다양한 기술을 배�
 
 ## 🌟 학습 기술
 
-이 학습 과정에서는 아래 기술들을 중점적으로 다룹니다. 각 버튼을 클릭하면 해당 기술의 공식 문서를 열람할 수 있습니다:
 
+<br><br><br>
 <div align="center" style="margin-top: 20px;">
   <div>
     <a href="https://docs.oracle.com/en/java/" target="_blank">
