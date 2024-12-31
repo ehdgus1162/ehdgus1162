@@ -38,18 +38,6 @@ Java, MySQL, JavaScript, Spring, HTML5, CSS, React 등 다양한 기술을 배�
 </div>
 
 ---
-
-## 🛠 학습 목표
-- **Java**: 
-- **MySQL**: 
-- **JavaScript**: 
-- **HTML5**: 
-- **CSS3**: 
-- **Spring**: 
-- **React**: 
-
----
-
 ## 📖 학습 과정
 ### 1. Java
 ### 2. MySQL
@@ -57,9 +45,7 @@ Java, MySQL, JavaScript, Spring, HTML5, CSS, React 등 다양한 기술을 배�
 ### 4. HTML5 & CSS3
 ### 5. Spring
 ### 6. React
-
 ---
-
 ## 🗂 학습 자료
 - [Java 입문서](https://docs.oracle.com/en/java/)
 - [MySQL 공식 튜토리얼](https://dev.mysql.com/doc/)
@@ -67,8 +53,7 @@ Java, MySQL, JavaScript, Spring, HTML5, CSS, React 등 다양한 기술을 배�
 - [HTML5 & CSS3 기본](https://developer.mozilla.org/ko/docs/Web/HTML)
 - [Spring 가이드](https://spring.io/guides)
 - [React 학습 자료](https://reactjs.org/docs/)
-
 ---
 
 ## 🎯 학습 계획
-- 매달 학습 성과를 기록하고 피드백 반영.
+- 
