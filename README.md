@@ -44,7 +44,7 @@ Java, MySQL, JavaScript, Spring, HTML5, CSS, React 등 다양한 기술을 배�
 - [HTML5 & CSS3 기본](https://developer.mozilla.org/ko/docs/Web/HTML)
 - [Spring 가이드](https://spring.io/guides)
 - [React 학습 자료](https://reactjs.org/docs/)
-- [📘 나의 노션 학습 정리](https://www.notion.so/16fcb94e23b080dcb37cc7f7a6b475bd?v=e6f6bd4c68e44a8e9f3caf6b1244e35b&pvs=4) <!-- 노션 링크 추가 -->
+- [📘 나의 노션 학습 정리](https://www.notion.so/16fcb94e23b080ca84dbf35de3d4ce28) <!-- 노션 링크 추가 -->
 
 ---
 
