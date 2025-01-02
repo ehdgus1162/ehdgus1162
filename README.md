@@ -6,7 +6,6 @@ Java, MySQL, JavaScript, Spring, HTML5, CSS, React 등 다양한 기술을 배�
 
 ## 🌟 학습 기술
 
-
 <br><br>
 <div align="center" style="margin-top: 20px;">
   <div>
@@ -39,15 +38,18 @@ Java, MySQL, JavaScript, Spring, HTML5, CSS, React 등 다양한 기술을 배�
 
 ---
 ## 🗂 학습 자료
- - [Java 입문서](https://docs.oracle.com/en/java/)
- - [MySQL 공식 튜토리얼](https://dev.mysql.com/doc/)
- - [JavaScript 학습 자료 (MDN)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
- - [HTML5 & CSS3 기본](https://developer.mozilla.org/ko/docs/Web/HTML)
- - [Spring 가이드](https://spring.io/guides)
- - [React 학습 자료](https://reactjs.org/docs/)
+- [Java 입문서](https://docs.oracle.com/en/java/)
+- [MySQL 공식 튜토리얼](https://dev.mysql.com/doc/)
+- [JavaScript 학습 자료 (MDN)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
+- [HTML5 & CSS3 기본](https://developer.mozilla.org/ko/docs/Web/HTML)
+- [Spring 가이드](https://spring.io/guides)
+- [React 학습 자료](https://reactjs.org/docs/)
+- [📘 나의 노션 학습 정리](https://your-notion-link.com) <!-- 노션 링크 추가 -->
+
 ---
 
 ## 🎯 학습 계획
 - 프로젝트 실습 병행
 - 월별 학습 성과 점검
+
 
